@@ -2,4 +2,6 @@
 <resources>
     <item name="recyclerView" type="id" />
     <item name="floatingBtn" type="id" />
+    <item name="textId" type="id" />
+    <item name="buttonEdit" type="id" />
 </resources>

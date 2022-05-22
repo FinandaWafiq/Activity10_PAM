@@ -47,8 +47,8 @@
         android:id="@+id/btnSimpan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Simpan"
+        android:text="Update"
+        tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="158dp"
-        tools:layout_editor_absoluteY="479dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="479dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
